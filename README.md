@@ -28,11 +28,11 @@
 
 
 ### :man_technologist: About Me :
-I am a third-year IT undergrad <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from IIEST, Shibpur.
+I am a final year IT undergrad <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from IIEST, Shibpur.
 
 - :seedling: Currently working with .NET Core, React(With Typescript) and Mobx to build an application.
 
-- :zap: In my free time, I solve problems on LeetCode, play guitar, read novels and... sleep.
+- :zap: In my free time, I solve problems on LeetCode, listen to music, read novels and... sleep.
 
 - :mailbox: Drop a mail : royrik23@gmail.com
                                                           
