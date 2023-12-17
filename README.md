@@ -32,7 +32,7 @@ I am a final year IT undergrad <img src="https://media.giphy.com/media/WUlplcMpO
 
 - :seedling: Currently working with .NET Core, React(With Typescript) and Mobx to build an application.
 
-- :zap: In my free time, I solve problems on LeetCode, listen to music, read novels and... sleep.
+- :zap: In my free time, I play PC games, listen to music, read novels and... sleep.
 
 - :mailbox: Drop a mail : royrik23@gmail.com
                                                           
