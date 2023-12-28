@@ -8,7 +8,7 @@
   <a href="https://www.youtube.com/channel/UC3LO9hSZX8AqOAjpEWep_zA">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://twitter.com/_Wrrikk_">
+  <a href="https://x.com/_Wrrikk_">
     <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white" alt="X Badge"/>
   </a>
   <a href="https://www.instagram.com/wrrikk">
