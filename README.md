@@ -14,6 +14,9 @@
   <a href="https://www.instagram.com/wrrikk">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
+  <a href="https://www.facebook.com/wrrikk/">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
 </div>
 <div align = "center">
   <img src="https://komarev.com/ghpvc/?username=Wrrikk&style=flat-square&color=blue" alt="Profile Views""/>
